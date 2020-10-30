@@ -34,6 +34,11 @@ This project is to analyze the study of Pymaceuticals Inc., a burgeoning pharmac
 * Inside an Images folder, you will find the charts and plots created in the report as png image files.
 
 ## <a name="insights"></a> Observations and Insights
+* The bar chart shows that the number of unique mice tested on each drug regimen was 24 or 25, and it seems that it was fairly distributed. 
+* The pie chart shows that female versus male mice's distribution was almost similar, as female mice take up about 49.6%, and male mice take up about 50.4%. We can say that this helped the study results not to be affected by the gender of mice. 
+* Seeing the outliers and a box plot, we can notice that there is a potential outlier in the final tumor volumes among the mice treated with Infubinol; therefore, we should consider it when we analyze the results. This might affect the test results analysis, but for the other 3 treat regimens, it seems that there are no potential outliers that would affect the analysis.
+* The line plot of tumor volume versus time point for s185 treated with Capomulin shows that the tumor volume decreased from 45 mm3 to about 23 mm3 by the time pass. It seems that Capomulin was very effective in treating the tumor of s185. It would be needed to see line plots of tumor volumes versus the time point of other mice treated with Caomulin to prove the effectiveness of Capomulin.
+* Looking at the scatter plot with the linear model, we can notice a strong positive correlation between mouse weight and average tumor volume for the Capomulin regimen. The fact that the correlation coefficient was about 0.84 also proves this relationship. From this, we can assume mouse weight can significantly affect tumor volume. In other words, the heavier the mouse weight may cause a larger tumor volume. 
 
 ## <a name="final-report"></a> Study Results Report
 The notebook displays the whole study results analysis is available in this link: [Analysis Report](https://nbviewer.jupyter.org/github/SaraKim-sy/Matplotlib-challenge/blob/main/Pymaceuticals/.ipynb_checkpoints/pymaceuticals-checkpoint.ipynb)
