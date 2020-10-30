@@ -36,7 +36,7 @@ This project is to analyze the study of Pymaceuticals Inc., a burgeoning pharmac
 ## <a name="insights"></a> Observations and Insights
 
 ## <a name="final-report"></a> Study Results Report
-The notebook displays the whole study results analysis is available in this link: [Analysis Report](https://nbviewer.jupyter.org/github/SaraKim-sy/Pandas-challenge/blob/main/Pymaceuticals/.ipynb_checkpoints/pymaceuticals-checkpoint.ipynb)
+The notebook displays the whole study results analysis is available in this link: [Analysis Report](https://nbviewer.jupyter.org/github/SaraKim-sy/Matplotlib-challenge/blob/main/Pymaceuticals/.ipynb_checkpoints/pymaceuticals-checkpoint.ipynb)
 
 ### <a name="summary-statistics"></a> Summary Statistics
 * A summary statistics table of mean, median, variance, standard deviation, and SEM of the tumor volume for each regimen.
