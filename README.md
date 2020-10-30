@@ -33,6 +33,7 @@ This project is to analyze the study of Pymaceuticals Inc., a burgeoning pharmac
    
 * Inside an Images folder, you will find the charts and plots created in the report as png image files.
 
+
 ## <a name="insights"></a> Observations and Insights
 * The bar chart shows that the number of unique mice tested on each drug regimen was 24 or 25, and it seems that it was fairly distributed. 
 * The pie chart shows that female versus male mice's distribution was almost similar, as female mice take up about 49.6%, and male mice take up about 50.4%. We can say that this helped the study results not to be affected by the gender of mice. 
