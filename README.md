@@ -40,7 +40,7 @@ The notebook displays the whole study results analysis is available in this link
 
 ### <a name="summary-statistics"></a> Summary Statistics
 * A summary statistics table of mean, median, variance, standard deviation, and SEM of the tumor volume for each regimen.
-* Were calculated by two methods, one is using grouby and summary statistical methods, the other is using the aggregation metod. 
+* Calculated by two methods, one uses groupby and summary statistical methods, the other uses the aggregation method.
 
 ### <a name="bar"></a> Bar Charts
 * Bar charts that show the number of total mice for each treatment regimen throughout the course of the study
@@ -65,8 +65,26 @@ The notebook displays the whole study results analysis is available in this link
 * Highlighted any potential outliers in the plot by changing their color to red.
 * Outcome:
 
-![Box Chart](https://github.com/SaraKim-sy/Matplotlib-challenge/blob/main/Images/box_plot.png?raw=true)
+![Box Plot](https://github.com/SaraKim-sy/Matplotlib-challenge/blob/main/Images/box_plot.png?raw=true)
 
+### <a name="line"></a> Line Plot
+* A line plot of tumor volume vs. time point for a mouse (s185) treated with Capomulin
+* Outcome:
+
+![Line Plot](https://github.com/SaraKim-sy/Matplotlib-challenge/blob/main/Images/line_plot.png?raw=true)
+
+### <a name="scatter"></a> Scatter Plot
+* A scatter plot of average tumor volume vs. mouse weight for the Capomulin regimen
+* Outcome:
+
+![Scatter Plot](https://github.com/SaraKim-sy/Matplotlib-challenge/blob/main/Images/scatter_plot.png?raw=true)
+
+### <a name="correlation-regression"></a> Correlation Coeifficient & Linear Regression Model
+* Calculated the correlation coefficient and linear regression model for mouse weight and average tumor volume for the Capomulin regimen
+* Generated a scatter plot of Average Weight vs. Average Tumor Volume and plot the linear model on top of scatter plot
+* Outcome:
+
+![Scatter and Linear Plot](https://github.com/SaraKim-sy/Matplotlib-challenge/blob/main/Images/scatter_linear_plot.png?raw=true)
   
 ## <a name="technologies"></a> Technologies
 Project is created with:
